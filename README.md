@@ -9,6 +9,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 - 💡 Responsive and clean UI
   
 ## 🔍Demo
+[Live Demo](#) – https://ashish-kashyap.github.io/rock-paper-scissors-game/
 
 
 ## 📷Preview
